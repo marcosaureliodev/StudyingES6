@@ -13,5 +13,6 @@ Para isto usaremos o seguintes comandos:
 
 ```yarn add @babel/cli ```
 
-```yarn add @babel/preset-env ```
+```yarn add @babel/core ```
 
+```yarn add @babel/preset-env ```
